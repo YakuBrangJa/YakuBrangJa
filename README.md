@@ -1,6 +1,6 @@
-- Hi, I’m @YakuBrangJa
+- Hi, I’m Yaku Brang Ja
 - I've been learning HTML,CSS and Javascript so far
-- I’m currently focusing on learning React.js
+- I’m currently learning React.js
 - I’m looking to collaborate on Web application projects
 - Reach me at dbrangja.code@gmail.com
 
