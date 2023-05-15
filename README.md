@@ -2,7 +2,7 @@
 - I've been learning HTML,CSS and Javascript so far
 - I’m currently learning React.js
 - I’m looking to collaborate on Web application projects
-- Reach me at dbrangja.code@gmail.com
+- Reach me at dbrangja.dev@gmail.com
 
 <!---
 YakuBrangJa/YakuBrangJa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
