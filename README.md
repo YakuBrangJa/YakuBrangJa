@@ -1,6 +1,5 @@
 - Hi, I’m Yaku Brang Ja
-- I've been learning HTML,CSS and Javascript so far
-- I’m currently learning React.js
+- I’m currently learning Laravel
 - I’m looking to collaborate on Web application projects
 - Reach me at dbrangja.dev@gmail.com
 
