@@ -1,5 +1,6 @@
 - Hi, I’m Yaku Brang Ja
-- I’m currently learning Laravel
+- Proficient in React and Laravel
+- I’m currently learning TypeScript and Next JS.
 - I’m looking to collaborate on Web application projects
 - Reach me at yakubrangja.dev@gmail.com
 
