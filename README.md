@@ -1,7 +1,7 @@
 - Hi, I’m Yaku Brang Ja
 - I’m currently learning Laravel
 - I’m looking to collaborate on Web application projects
-- Reach me at dbrangja.dev@gmail.com
+- Reach me at yakubrangja.dev@gmail.com
 
 <!---
 YakuBrangJa/YakuBrangJa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
