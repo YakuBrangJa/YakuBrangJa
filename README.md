@@ -1,6 +1,5 @@
 - Hi, I’m Yaku Brang Ja
-- I enjoy developing stuffs with React and Laravel
-- I’m looking to collaborate on Web application projects
+- I’m open to collaborating on Web application & Open sources projects
 - Reach me at yakubrangja.dev@gmail.com
 
 <!---
